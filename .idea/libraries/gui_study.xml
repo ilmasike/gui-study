@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gui-study">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/gui_study_jar/gui-study.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
